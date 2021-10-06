@@ -19,10 +19,10 @@ or in your `composer.json`
      "fgalvao/version-test" : xxxx
  }
 ```
-##Docs
+##Docs  
 Not sure how, check out the composer version documentation https://getcomposer.org/doc/articles/versions.md
 
-Don't want to install this package in you local, test on-line here [semver.mwl.be](https://semver.mwl.be/?package=madewithlove/htaccess-cli&constraint=dev-main&stability=stable)
+Don't want to install this package in you local, test on-line here [semver.mwl.be](https://semver.mwl.be/?package=fgalvao/version-test&constraint=dev-main&stability=stable)
     
 ## Usage/Examples
 
