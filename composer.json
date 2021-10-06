@@ -1,0 +1,13 @@
+{
+    "name": "fgalvao/version-test",
+    "description": "Just a dummy project to test composer version",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Felippe Laderia",
+            "email": "felippe.ladeira@eagleeye.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
