@@ -1,1 +1,1 @@
-Version 1.3.0-RC2
+Version 1.3.0-RC3
