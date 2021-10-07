@@ -1,1 +1,1 @@
-Version 1.5.2-beta-3
+Version 1.5.2-beta-4
