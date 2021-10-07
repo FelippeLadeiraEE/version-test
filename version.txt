@@ -1,1 +1,1 @@
-Version 1.5.4-RC-3
+Version 1.5.4-RC-4
