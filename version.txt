@@ -1,1 +1,1 @@
-Version 0.2.3-dev
+Version 0.2.3-alpha
