@@ -1,1 +1,1 @@
-Version 1.0.5-alpha
+Version 1.0.5-beta
