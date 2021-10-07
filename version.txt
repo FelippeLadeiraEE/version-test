@@ -1,1 +1,1 @@
-Version 0.2.3-beta
+Version 0.2.3-RC
