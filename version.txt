@@ -1,1 +1,1 @@
-Version 1.2.3-alpha
+Version 1.2.3-beta
