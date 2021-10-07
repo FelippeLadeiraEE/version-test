@@ -26,7 +26,7 @@ Don't want to install this package in you local, test on-line here [semver.mwl.b
     
 ## Usage/Examples
 
-Just change the version you want to donwload in you `composer.json`
+Just change the version you want to download in you `composer.json`
 
 ```json
 {
