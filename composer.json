@@ -2,6 +2,7 @@
     "name": "fgalvao/version-test",
     "description": "Just a dummy project to test composer version",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Felippe Laderia",
