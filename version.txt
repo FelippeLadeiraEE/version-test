@@ -1,1 +1,1 @@
-Version 1.22.2-beta
+Version 1.22.2-beta.1
