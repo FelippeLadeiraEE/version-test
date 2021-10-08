@@ -1,1 +1,1 @@
-Version 1.24.4-RC
+Version 1.24.5
