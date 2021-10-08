@@ -1,1 +1,1 @@
-Version 1.25.5
+Version 1.26.0-dev
